@@ -4,7 +4,7 @@
 📧 **jhrdcstl77@gmail.com** | 💻 **https://github.com/JoeHardcastle**
 
 ---
-<center><img src="Delhi.JPG" width="450" alt="Delhi"></center>
+
 ## Project Overview & Objectives
 This data science project looks at the residential housing market across two major locations in Delhi: Dwarka Mor and Uttam Nagar. 
 
